@@ -10,10 +10,11 @@ Maturing into software engineering roles for human-centric companies. Building m
 
 Welcoming connections with those who share a passion for human-centric technology and innovation.
 
+[<img width="50" height="50" alt="linkedIn" src="https://github.com/user-attachments/assets/4da4d69f-8462-4573-b5e2-d024dc846b90" />](https://www.linkedin.com/in/benjaminmmarta/)
+
 # Education
 
 ### California State University Channel Islands
 - English Literature B.A. | 3.77 GPA
 - Technical Writing Certificate | 3.77 GPA
-
 
