@@ -45,7 +45,7 @@ Welcoming connections with those who share a passion for human-centric technolog
   - DATABASE & DATA:  Microsoft SQL Server, PostgreSQL, SQLite, CSV
   - DATABASE TOOLS:  SQL Server Management Studio (SSMS)
   - DEVELOPER TOOLS:  Git, GitHub, VS Code, Postman, Command Line, PyCharm (familiar), Chrome DevTools (familiar)
-  - TESTING:  Functional Testing, Regression Testing, Integration Testing, Black-Box Testing, Manual Testing, Cross-Functional Testing
+  - TESTING:  Functional Testing, Regression Testing, Integration Testing, Black-Box Testing, Manual Testing
   - DEFECT TRACKING TOOLS:  Microsoft Access, Azure DevOps (formerly TFS), Jira, TestRail
 
 
