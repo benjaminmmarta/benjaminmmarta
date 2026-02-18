@@ -1,4 +1,4 @@
-![6357A468-A9E1-445D-B05F-4BEAC88C88E1_1_105_c](https://github.com/user-attachments/assets/9949a76f-ae6f-482b-8d78-728b76d74bb0)
+<img width="1584" height="396" alt="Github Banner" src="https://github.com/user-attachments/assets/cee12efe-3196-424b-96ba-b7a08cd9c8ba" />
 
 # Bio
 
