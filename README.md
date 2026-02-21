@@ -40,12 +40,13 @@ Welcoming connections with those who share a passion for human-centric technolog
 
 # Technical Skills
 
-  - LANGUAGES:  Python, SQL, HTML, CSS
-  - BACKEND & API:  REST APIs, API Testing, HTTP, JSON, CRUD 
-  - DATABASE & DATA:  Microsoft SQL Server, PostgreSQL, SQLite, CSV
-  - DATABASE TOOLS:  SQL Server Management Studio (SSMS)
-  - DEVELOPER TOOLS:  Git, GitHub, VS Code, Postman, Command Line, PyCharm (familiar), Chrome DevTools (familiar)
-  - TESTING:  Functional Testing, Regression Testing, Integration Testing, Black-Box Testing, Manual Testing
-  - DEFECT TRACKING TOOLS:  Microsoft Access, Azure DevOps (formerly TFS), Jira, TestRail
+  - LANGUAGES & LIBRARIES | Python (Pandas, NumPy, Matplotlib), SQL, HTML, CSS
+  - BACKEND & API | REST APIs, API Testing, HTTP, JSON, CRUD 
+  - DATABASE & DATA | MongoDB, PostgreSQL, SQLite, CSV, Microsoft SQL Server
+  - DATABASE TOOLS | SQL Server Management Studio (SSMS)
+  - DEVELOPER TOOLS | Git, GitHub, VS Code, Postman, Command Line, PyCharm, Chrome DevTools
+  - TESTING | Functional Testing, Regression Testing, Integration Testing, Black-Box Testing, Manual Testing, Cross-Functional Testing
+  - DEFECT TRACKING TOOLS | Microsoft Access, Azure DevOps, Jira, TestRail
+
 
 
