@@ -22,13 +22,15 @@ Welcoming connections with those who share a passion for human-centric technolog
 #### Codecademy
   - Computer Science Professional Certification
   - Data Engineer Professional Certification
-  - Back-End Engineer Professional Certification *(In Progress)*
-  - Machine Learning & AI Engineer Professional Certification *(In Progress)*
 
+#### Coursera
+  - IBM Backend Engineer Professional Certification *(In Progress)*
+  - IBM Machine Learning Professional Certification *(In Progress)*
+  - IBM AI Engineer Professional Certification *(In Progress)*
 
 # Certifications
 
-#### International Software Testing Qualifications Board (ISTQB)
+#### ISTQB
   - ISTQB Certified Tester Foundation Level
 
 #### Postman
