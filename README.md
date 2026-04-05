@@ -12,6 +12,15 @@ Welcoming connections with those who share a passion for human-centric technolog
 
 <!-- [<img width="50" height="50" alt="linkedIn" src="https://github.com/user-attachments/assets/4da4d69f-8462-4573-b5e2-d024dc846b90" />](https://www.linkedin.com/in/benjaminmmarta/) -->
 
+# Technical Skills
+
+  - LANGUAGES & LIBRARIES | Python (Pandas, NumPy, Matplotlib), JavaScript, SQL, HTML, CSS
+  - BACKEND & API | REST APIs, API Testing, HTTP, JSON, CRUD 
+  - DATABASE & DATA | MongoDB, PostgreSQL, SQLite, CSV, Microsoft SQL Server
+  - DATABASE TOOLS | SQL Server Management Studio (SSMS)
+  - DEVELOPER TOOLS | Git, GitHub, VS Code, Postman, Command Line, PyCharm, Chrome DevTools
+  - TESTING | Functional Testing, Regression Testing, Integration Testing, Black-Box Testing, Manual Testing
+  - DEFECT TRACKING TOOLS | Microsoft Access, Azure DevOps, Jira, TestRail
 
 # Education
 
@@ -39,16 +48,6 @@ Welcoming connections with those who share a passion for human-centric technolog
   - API Testing Path
   - API Documentation Path
 
-
-# Technical Skills
-
-  - LANGUAGES & LIBRARIES | Python (Pandas, NumPy, Matplotlib), SQL, HTML, CSS
-  - BACKEND & API | REST APIs, API Testing, HTTP, JSON, CRUD 
-  - DATABASE & DATA | MongoDB, PostgreSQL, SQLite, CSV, Microsoft SQL Server
-  - DATABASE TOOLS | SQL Server Management Studio (SSMS)
-  - DEVELOPER TOOLS | Git, GitHub, VS Code, Postman, Command Line, PyCharm, Chrome DevTools
-  - TESTING | Functional Testing, Regression Testing, Integration Testing, Black-Box Testing, Manual Testing
-  - DEFECT TRACKING TOOLS | Microsoft Access, Azure DevOps, Jira, TestRail
 
 
 
